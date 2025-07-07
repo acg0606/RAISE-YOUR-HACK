@@ -26,14 +26,14 @@ We built an autonomous agent ecosystem using Fetch.ai's infrastructure:
 3. **Prediction Agent** (AI Engine): Provides intelligent trading recommendations
 4. **Trading Agent** (Agentverse): Executes optimal trading strategies autonomously
 
-🚀 FETCH.AI INFRASTRUCTURE INTEGRATION:
+🚀 FETCH.AI INFRASTRUCTURE INTEGRATION:</p>
 - uAgents Framework for autonomous agent creation
 - DeltaV for intelligent decision-making
 - Agentverse for agent monitoring and management
 - AI Engine for predictive analytics
 - Almanac contracts for secure agent registration
 
-💎 UNIQUE VALUE:
+💎 UNIQUE VALUE:</p>
 - First fully autonomous airdrop optimization system
 - 24/7 operation without human intervention
 - Scalable to thousands of simultaneous campaigns
@@ -41,7 +41,7 @@ We built an autonomous agent ecosystem using Fetch.ai's infrastructure:
 
 Built exclusively on Fetch.ai's vision of autonomous economic agents creating value in the crypto ecosystem.
 
-4. **Technology & Category Tags**
+4. **Technology & Category Tags** </p>
 Technologies: Fetch.ai, uAgents, DeltaV, Agentverse, Python, FastAPI, Celery, Redis
 Categories: DeFi, Crypto Trading, Autonomous Agents, Multi-Agent Systems, Airdrop Optimization
 Track: FETCH.AI INFRASTRUCTURE TRACK
