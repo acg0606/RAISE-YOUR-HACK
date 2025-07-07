@@ -42,27 +42,28 @@ We built an autonomous agent ecosystem using Fetch.ai's infrastructure:
 Built exclusively on Fetch.ai's vision of autonomous economic agents creating value in the crypto ecosystem.
 
 4. **Technology & Category Tags** </p>
-Technologies: Fetch.ai, uAgents, DeltaV, Agentverse, Python, FastAPI, Celery, Redis
+Technologies:</p>
+Fetch.ai, uAgents, DeltaV, Agentverse, Python, FastAPI, Celery, Redis
 Categories: DeFi, Crypto Trading, Autonomous Agents, Multi-Agent Systems, Airdrop Optimization
 Track: FETCH.AI INFRASTRUCTURE TRACK
 
-5. 📸 **Cover Image and Presentation**
-5.1 Cover Image
+6. 📸 **Cover Image and Presentation**</p>
+5.1 Cover Image</p>
    ![image](https://github.com/user-attachments/assets/1a161995-18c9-4427-810a-1da19ce16906)
 
 https://www.figma.com/design/JBeyDALwr4TebFnMqb7tzp/Sampa-Nine-Nine?node-id=0-1&t=6YZ5W2eXtHv8aXpm-1
 
-5.2 Video Presentation
+5.2 Video Presentation</p>
 
-5.3 Slide Presentation
+5.3 Slide Presentation</p>
 
 
-6. 💻 **App Hosting & Code Repository**
+6. 💻 **App Hosting & Code Repository**</p>
 
-6.1 Public GitHub Repository
+6.1 Public GitHub Repository</p>
    
-6.2 Demo Application Platform
+6.2 Demo Application Platform</p>
 **inserir**
 
-6.3 Application URL   
+6.3 Application URL   </p>
    
