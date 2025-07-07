@@ -64,7 +64,7 @@ https://gamma.app/docs/AIRDROP-OPTIMIZER-tnq1l657o0pdj19
 https://github.com/VieiraGabrielAlexandre/lablabai-hackathon-raise-your-hack-sampa-nine-nine
 </p>
 6.2 Demo Application Platform</p>
-**inserir**
-
+</p>
 6.3 Application URL   </p>
    
+</p>
