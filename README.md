@@ -56,10 +56,13 @@ https://www.figma.com/design/JBeyDALwr4TebFnMqb7tzp/Sampa-Nine-Nine?node-id=0-1&
 
 5.3 Slide Presentation
 
+
 6. 💻 **App Hosting & Code Repository**
+
 6.1 Public GitHub Repository
    
 6.2 Demo Application Platform
 **inserir**
+
 6.3 Application URL   
    
