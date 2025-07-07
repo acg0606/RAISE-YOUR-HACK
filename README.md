@@ -58,7 +58,7 @@ https://www.figma.com/design/JBeyDALwr4TebFnMqb7tzp/Sampa-Nine-Nine?node-id=0-1&
 5.3 Slide Presentation</p>
 https://gamma.app/docs/AIRDROP-OPTIMIZER-tnq1l657o0pdj19
 </p>
-6. 💻 **App Hosting & Code Repository**</p>
+6. 💻 **App Hosting & Code Repository** </p>
 
 6.1 Public GitHub Repository</p>
 https://github.com/VieiraGabrielAlexandre/lablabai-hackathon-raise-your-hack-sampa-nine-nine
