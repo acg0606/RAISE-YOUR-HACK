@@ -48,7 +48,9 @@ Track: FETCH.AI INFRASTRUCTURE TRACK
 
 5. 📸 **Cover Image and Presentation**
 5.1 Cover Image
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/JBeyDALwr4TebFnMqb7tzp/Sampa-Nine-Nine?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+   ![image](https://github.com/user-attachments/assets/1a161995-18c9-4427-810a-1da19ce16906)
+
+https://www.figma.com/design/JBeyDALwr4TebFnMqb7tzp/Sampa-Nine-Nine?node-id=0-1&t=6YZ5W2eXtHv8aXpm-1
 
 5.2 Video Presentation
 
