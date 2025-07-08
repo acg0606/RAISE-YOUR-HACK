@@ -1,11 +1,11 @@
-🚀 RAISE‑YOUR‑HACK – Project Submission
-🔗 Event on lablab.ai: Raise Your Hack
-https://lablab.ai/event/raise-your-hack
+🚀 RAISE‑YOUR‑HACK – Project Submission</p>
+🔗 Event on lablab.ai: Raise Your Hack</p>
+https://lablab.ai/event/raise-your-hack</p>
 </p>
-✨Check our project!✨</p>
+</p>✨Check our project!✨</p>
 https://lablab.ai/event/raise-your-hack/sampa-nine-nine-vultr-track/airdrop-optimizer-multiagent-system-for-airdrop
 </p>
-📋 1. Project Title</p>
+</p>📋 1. Project Title</p>
 Airdrop Optimizer: Multi‑Agent Autonomous System for Crypto Airdrop Maximization
 </p>
 ✨ 2. Short Description</p>
